@@ -1,0 +1,23 @@
+I want to create a web app for organizing art glass marbles by style, artist, size. Also keep track of price of each marble and where it was purchased. 
+I want to be able to have an AI tool to determine the particular style of the marble.
+Be able to add multiple marbles at once.
+Be able to add artists.
+Be able to search for marbles with any of the given traits.
+Create the frontend using html, css, and react.
+Create the backend using Python.
+Utilize MySql RDBMS for data storage.
+Create a sql script to instantiate the mysql schema
+Save all created artifacts to the local filesystem.
+create f:\evan-f\projects\marbles-claude\setup_marbles.project.py script to build the directory structure for my project
+
+----
+
+I want to create a web app for organizing art glass marbles by style, artist, size. Also keep track of price of each marble and where it was purchased. 
+I want to be able to have an AI tool to determine the particular style of the marble.
+Be able to add multiple marbles at once.
+Be able to add artists.
+Be able to search for marbles with any of the given traits.
+Create the frontend using html, css, and react.
+Create the backend using Python.
+Utilize MySql RDBMS for data storage.
+Save all created artifacts to /mnt/f/Evan-F/Projects/Marbles-Claude/generated
